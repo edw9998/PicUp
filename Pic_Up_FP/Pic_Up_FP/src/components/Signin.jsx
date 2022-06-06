@@ -34,11 +34,11 @@ const Signin = () => {
       </div>
       <form onSubmit={handleSubmit}>
         <div className='flex flex-col py-2'>
-          <label className='py-2 font-medium'>Email Address</label>
+          <h1 className='py-2 font-medium'>Email Address</h1>
           <input onChange={(e) => setEmail(e.target.value)} className='border p-3' type='email' />
         </div>
         <div className='flex flex-col py-2'>
-          <label className='py-2 font-medium'>Password</label>
+          <h1 className='py-2 font-medium'>Password</h1>
           <input onChange={(e) => setPassword(e.target.value)} className='border p-3' type='password' />
         </div>
         <button className='border border-blue-500 bg-blue-600 hover:bg-blue-500 w-full p-4 my-2 text-white'>
