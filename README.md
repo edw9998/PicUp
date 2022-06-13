@@ -2,7 +2,7 @@
 # WADS FP
 
 <p>Made with :</p>
-- React
-- react-dropzone
-- Tailwind
+- React <br>
+- react-dropzone <br>
+- Tailwind <br>
 - Firebase
