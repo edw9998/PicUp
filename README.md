@@ -5,6 +5,7 @@
 - React <br>
 - react-dropzone <br>
 - Tailwind <br>
+- Axios(POST requests to Nodeflux)<br>
 - Firebase <br>
 
 <br>
