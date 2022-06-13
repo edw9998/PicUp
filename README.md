@@ -6,3 +6,8 @@
 - react-dropzone <br>
 - Tailwind <br>
 - Firebase
+
+<p>Features :</p>
+- Sign Up / Sign In
+- Picture Uploads
+- Picture Zoom Ins / Outs
