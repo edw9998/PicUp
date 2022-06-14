@@ -107,6 +107,7 @@ label:hover{
   height: 100%;
   background: rgba(0,0,0,0.5);
 }
+
 .backdrop img{
   display: block;
   max-width: 60%;

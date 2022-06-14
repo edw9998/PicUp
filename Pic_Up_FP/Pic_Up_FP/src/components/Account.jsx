@@ -16,7 +16,8 @@ const Account = () => {
       await logout();
       navigate('/');
       console.log('You are logged out')
-    } catch (e) {
+    } 
+    catch (e) {
       console.log(e.message);
     }
   };
